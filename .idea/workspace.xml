@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" name="Default" comment="" />
     <ignored path="aepfacts.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" time="1373541039218" ignored="false" />
+    <file path="/Dummy.txt" changelist="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" time="1373549789205" ignored="false" />
     <file path="/WebServer.java" changelist="ba64a957-23a4-4ad8-8c8b-6b9ea3a17cd4" time="1373539682580" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +87,7 @@
       <file leaf-file-name="WebServer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/develogical/WebServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="43" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.59227467">
+            <state line="50" column="89" selection-start="1593" selection-end="1593" vertical-scroll-proportion="0.5665236">
               <folding />
             </state>
           </provider>
@@ -209,10 +207,10 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Project Files" />
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,8 +318,8 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/SimpleProject/SimpleProject/SimpleProject.iml" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -410,19 +408,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -448,6 +433,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -511,7 +509,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="24" width="1388" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -705,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/develogical/WebServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="43" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.59227467">
+        <state line="50" column="89" selection-start="1593" selection-end="1593" vertical-scroll-proportion="0.5665236">
           <folding />
         </state>
       </provider>
